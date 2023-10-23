@@ -1,5 +1,5 @@
 - dashboard: business_pulse
-  title: Business Pulse
+  title: Business PulsAR
   layout: newspaper
   preferred_viewer: dashboards
   description: ''
